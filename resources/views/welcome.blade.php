@@ -10,6 +10,6 @@
 <body>
     <h1>Safarali Abduazimov</h1>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium doloribus eius eum hic itaque quo ut voluptas.
-    A adipisci ali55555555555555555555555552222222222222222222222555555555555h error excepturi harum nam officia saepe.</p>
+    A adipisci ali555555555555555555555555522222222222222dsvsdv22222222555555555555h error excepturi harum nam officia saepe.</p>
 </body>
 </html>
