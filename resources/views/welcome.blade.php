@@ -9,5 +9,7 @@
 </head>
 <body>
     <h1>Safarali Abduazimov</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium doloribus eius eum hic itaque quo ut voluptas.
+    A adipisci aliquid, animi asperiores delectus distinctio error excepturi harum nam officia saepe.</p>
 </body>
 </html>
