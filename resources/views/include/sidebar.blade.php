@@ -27,7 +27,7 @@
         </li><!-- End Components Nav -->
 
         <li class="nav-item">
-            <a class="nav-link collapsed" href="{{ route('main.index') }}">
+            <a class="nav-link collapsed" href="{{ route('customers.index') }}">
                 <i class="bi bi-person"></i>
                 <span>Customers</span>
             </a>

@@ -1,13 +1,7 @@
-
-<footer id="footer" class="footer">
-    <div class="copyright">
-        &copy; Copyright <strong><span>NiceAdmin</span></strong>. All Rights Reserved
-    </div>
-    <div class="credits">
-        <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you purchased the pro version. -->
-        <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+<footer class="bg-light text-center text-white">
+    <img src="assets/img/footer.png" width="100%" height="60px">
+    <div class="text-center p-3 bg-secondary">
+        © 2023 / 07 / 07  Copyright:
+        <a class="text-white" href="localhost://laravel.com">Kitchen</a>
     </div>
 </footer>

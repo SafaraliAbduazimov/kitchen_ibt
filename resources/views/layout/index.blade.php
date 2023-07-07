@@ -16,6 +16,8 @@
     <link href="assets/vendor/simple-datatables/style.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
 
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.5/css/jquery.dataTables.min.css">
+
     <title>Kitchen of IBT | @yield('title')</title>
 </head>
 <body>
@@ -29,5 +31,9 @@
 <script src="assets/vendor/tinymce/tinymce.min.js"></script>
 <script src="assets/vendor/php-email-form/validate.js"></script>
 <script src="assets/js/main.js"></script>
+<script src="DataTables/jquery.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.5/js/jquery.dataTables.min.js"></script>
+
+@yield('js')
 </body>
 </html>
